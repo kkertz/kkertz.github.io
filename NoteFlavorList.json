@@ -1,0 +1,5272 @@
+[
+    {
+        "title": "Citrus",
+        "order": 0,
+        "id": "601cecd1-860f-4da4-98d8-c6ccb4d1d094",
+        "name": "Blood orange",
+        "color": "Citrus",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Citrus",
+        "order": 0,
+        "id": "2da16c8e-06e7-4afe-93b8-f4995dd2c384",
+        "name": "Candied citrus",
+        "color": "Citrus",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Citrus",
+        "order": 0,
+        "id": "c024cc95-c204-4cb8-a3b3-7686673adc62",
+        "name": "Citrus",
+        "color": "Citrus",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Citrus",
+        "order": 0,
+        "id": "265f8056-7266-4113-9231-de5cf95162d9",
+        "name": "Grapefruit",
+        "color": "Citrus",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Citrus",
+        "order": 0,
+        "id": "db098058-7a86-4e52-b0a5-32a32f7da3d5",
+        "name": "Grapefruit peel",
+        "color": "Citrus",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Citrus",
+        "order": 0,
+        "id": "c010304b-506d-4096-9a2b-25d198ca1df9",
+        "name": "Lemon",
+        "color": "Citrus",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Citrus",
+        "order": 0,
+        "id": "1e469c05-6833-4108-828d-a64c16a885d9",
+        "name": "Lemon peel",
+        "color": "Citrus",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Citrus",
+        "order": 0,
+        "id": "4b34bce3-c444-4054-8442-55e177536b06",
+        "name": "Lemongrass",
+        "color": "Citrus",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Citrus",
+        "order": 0,
+        "id": "4f1897da-5560-4f38-8dd3-466cce6b03ff",
+        "name": "Lime",
+        "color": "Citrus",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Citrus",
+        "order": 0,
+        "id": "54662f76-9bd9-44de-85c0-9e31f01cb994",
+        "name": "Mandarine Orange",
+        "color": "Citrus",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Citrus",
+        "order": 0,
+        "id": "6024bc98-1c40-4409-b40f-743c2d4698e5",
+        "name": "Orange marmalade",
+        "color": "Citrus",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Citrus",
+        "order": 0,
+        "id": "b8f4a8dd-2893-452e-94c0-4c3300a87f16",
+        "name": "Orange",
+        "color": "Citrus",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Citrus",
+        "order": 0,
+        "id": "fd699e17-d665-4897-8015-a785e8691536",
+        "name": "Orange peel",
+        "color": "Citrus",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Citrus",
+        "order": 0,
+        "id": "f062e623-aa4c-4d19-8c7b-1e90985b899d",
+        "name": "Pear",
+        "color": "Citrus",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Citrus",
+        "order": 0,
+        "id": "0e641a6c-42c8-43f7-91fe-831e2d71296e",
+        "name": "Tangerine",
+        "color": "Citrus",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Citrus",
+        "order": 0,
+        "id": "381dcab2-43de-45b2-8176-8f3ddb91ac0e",
+        "name": "Zest",
+        "color": "Citrus",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Fruity",
+        "order": 1,
+        "id": "1d4206ad-efe1-44a9-99f5-459cadaca3fd",
+        "name": "Apple",
+        "color": "Fruity",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Fruity",
+        "order": 1,
+        "id": "3491f20c-fe80-4e28-8588-922105e05999",
+        "name": "Apricot",
+        "color": "Fruity",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Fruity",
+        "order": 1,
+        "id": "2b487be6-0a44-4a5b-a83d-1fa304f9f01f",
+        "name": "Banana",
+        "color": "Fruity",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Fruity",
+        "order": 1,
+        "id": "fb21c280-13f3-43f2-aa66-4980070fc121",
+        "name": "Berry",
+        "color": "Fruity",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Fruity",
+        "order": 1,
+        "id": "2f386206-4695-44bb-8670-dd56c4df9100",
+        "name": "Blackberry",
+        "color": "Fruity",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Fruity",
+        "order": 1,
+        "id": "c1a43348-adff-4569-b0da-f5d04809e7e1",
+        "name": "Blueberry",
+        "color": "Fruity",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Fruity",
+        "order": 1,
+        "id": "907f2f1b-a5cc-49b3-a138-6d1455072c38",
+        "name": "Bubble gum",
+        "color": "Fruity",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Fruity",
+        "order": 1,
+        "id": "433ef881-43e7-4f0a-9c7d-a9a3ee2a9939",
+        "name": "Candied fruit",
+        "color": "Fruity",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Fruity",
+        "order": 1,
+        "id": "18d62685-f4a1-4a28-9822-c57e96fc6bb5",
+        "name": "Cherry",
+        "color": "Fruity",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Fruity",
+        "order": 1,
+        "id": "399704b9-ab9b-4e11-981a-3f991704897c",
+        "name": "Cider",
+        "color": "Fruity",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Fruity",
+        "order": 1,
+        "id": "9a14ea0f-7d00-4582-b529-8fb8d62f4cfb",
+        "name": "Cooked fruit",
+        "color": "Fruity",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Fruity",
+        "order": 1,
+        "id": "eed19e82-147e-4df3-9a94-cadef0d874c6",
+        "name": "Currant",
+        "color": "Fruity",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Fruity",
+        "order": 1,
+        "id": "d6f40474-fea2-4bea-a09b-31c0eed5f2ef",
+        "name": "Dark fruit",
+        "color": "Fruity",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Fruity",
+        "order": 1,
+        "id": "f87ab6e7-6309-4b7b-a8b6-b98d50013701",
+        "name": "Date",
+        "color": "Fruity",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Fruity",
+        "order": 1,
+        "id": "f9efb17f-33cd-4c0b-9455-3b23aa61f650",
+        "name": "Dried Cranberry",
+        "color": "Fruity",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Fruity",
+        "order": 1,
+        "id": "727dc015-0f52-4e05-ace1-824e83beba5c",
+        "name": "Dried fruit",
+        "color": "Fruity",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Fruity",
+        "order": 1,
+        "id": "a339ee17-df9e-497b-a142-0d4cb9966b3c",
+        "name": "Dried tomato",
+        "color": "Fruity",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Fruity",
+        "order": 1,
+        "id": "29321ef7-ce7d-4524-92b7-23e5b2e0a4e6",
+        "name": "Fig ",
+        "color": "Fruity",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Fruity",
+        "order": 1,
+        "id": "c1b547de-f461-4b43-a7dc-8d2e3b5be555",
+        "name": "Flambéed banana",
+        "color": "Fruity",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Fruity",
+        "order": 1,
+        "id": "ff403981-561e-48ff-944b-908fa54474cc",
+        "name": "Fruit cake",
+        "color": "Fruity",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Fruity",
+        "order": 1,
+        "id": "22c32e6d-f8b2-4d6d-a618-2814a1f295f7",
+        "name": "Fruit candy",
+        "color": "Fruity",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Fruity",
+        "order": 1,
+        "id": "f9dc4eb8-40cb-41f8-b228-81c9c3afab8f",
+        "name": "Fruit jelly",
+        "color": "Fruity",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Fruity",
+        "order": 1,
+        "id": "a5f17a1e-35a5-4ac0-9a10-33a141622053",
+        "name": "Fruity",
+        "color": "Fruity",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Fruity",
+        "order": 1,
+        "id": "55f6c8c7-08b7-4b55-8777-d53bdd310d2f",
+        "name": "Golden raisin",
+        "color": "Fruity",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Fruity",
+        "order": 1,
+        "id": "146ac5fd-c6c9-438b-bed9-cae0404f1c26",
+        "name": "Grape",
+        "color": "Fruity",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Fruity",
+        "order": 1,
+        "id": "021d54f1-1069-4a5b-b387-640ec0d8314c",
+        "name": "Green apple",
+        "color": "Fruity",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Fruity",
+        "order": 1,
+        "id": "8a7d0b9e-538e-4106-b721-ebe05444a685",
+        "name": "Honeydew melon",
+        "color": "Fruity",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Fruity",
+        "order": 1,
+        "id": "232db37f-5082-4f51-8248-e4336c51f476",
+        "name": "Kiwi",
+        "color": "Fruity",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Fruity",
+        "order": 1,
+        "id": "0d46c942-c262-4181-a7c0-fde2b8229bae",
+        "name": "Mango",
+        "color": "Fruity",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Fruity",
+        "order": 1,
+        "id": "23fa4e94-d4fd-4cc4-af78-0a64c18ef0d1",
+        "name": "Maraschino cherry",
+        "color": "Fruity",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Fruity",
+        "order": 1,
+        "id": "59ef6621-0842-44f1-a837-f49093de9919",
+        "name": "Marmalade",
+        "color": "Fruity",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Fruity",
+        "order": 1,
+        "id": "dfbcb737-f808-4163-83e8-99d4a3087f0a",
+        "name": "Melon",
+        "color": "Fruity",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Fruity",
+        "order": 1,
+        "id": "b4b7f479-0c95-49d8-877d-d7b1f309053c",
+        "name": "Mulberry",
+        "color": "Fruity",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Fruity",
+        "order": 1,
+        "id": "f16bda1d-2b52-448b-ab5f-00ed593a5c29",
+        "name": "Nectarine",
+        "color": "Fruity",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Fruity",
+        "order": 1,
+        "id": "14305b4c-b88d-4736-af74-2b98e46499eb",
+        "name": "Orchard",
+        "color": "Fruity",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Fruity",
+        "order": 1,
+        "id": "bb0e0e21-09c1-4c6c-9fc2-df319bf26244",
+        "name": "Papaya",
+        "color": "Fruity",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Fruity",
+        "order": 1,
+        "id": "adfb72fb-58d9-4a67-ac73-de0d8863de3a",
+        "name": "Passion fruit",
+        "color": "Fruity",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Fruity",
+        "order": 1,
+        "id": "3617b9c8-3930-44d3-a441-4788d067d7ac",
+        "name": "Peach",
+        "color": "Fruity",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Fruity",
+        "order": 1,
+        "id": "1e24a167-5d8f-4da7-ac6a-22d10c102a40",
+        "name": "Pineapple",
+        "color": "Fruity",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Fruity",
+        "order": 1,
+        "id": "d79a3dc8-6f8f-4744-9d8f-4b7ca400c14e",
+        "name": "Plum",
+        "color": "Fruity",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Fruity",
+        "order": 1,
+        "id": "1759af7e-884c-46db-9d9a-c071a1e43e31",
+        "name": "Pomegranate",
+        "color": "Fruity",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Fruity",
+        "order": 1,
+        "id": "ea2ad28a-07d6-4664-962b-35719ef78e8f",
+        "name": "Preserves",
+        "color": "Fruity",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Fruity",
+        "order": 1,
+        "id": "0a33ae6b-6766-4b5f-afe2-42a326994293",
+        "name": "Prune",
+        "color": "Fruity",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Fruity",
+        "order": 1,
+        "id": "7153e02c-5184-4b75-9eb0-8e0432396977",
+        "name": "Raisins",
+        "color": "Fruity",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Fruity",
+        "order": 1,
+        "id": "3315d312-a6e2-4245-b3e2-53058ee1667f",
+        "name": "Raspberry",
+        "color": "Fruity",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Fruity",
+        "order": 1,
+        "id": "2536fc56-a387-4963-b866-eac39b305a33",
+        "name": "Strawberry",
+        "color": "Fruity",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Fruity",
+        "order": 1,
+        "id": "4fc6bf4e-e2dc-41f8-9056-4e54713fc06f",
+        "name": "Tomato",
+        "color": "Fruity",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Fruity",
+        "order": 1,
+        "id": "9bab9bf1-f428-446a-bb1d-0fc1b99a9c60",
+        "name": "Tropical fruit",
+        "color": "Fruity",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Fruity",
+        "order": 1,
+        "id": "5a7576f2-fd59-4406-b6eb-3fa9a94ed43a",
+        "name": "Watermelon",
+        "color": "Fruity",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Sweet",
+        "order": 2,
+        "id": "a8cbe36a-b1a4-4d83-b6ab-f4def9e17653",
+        "name": "Artificial Sugar",
+        "color": "Sweet",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Sweet",
+        "order": 2,
+        "id": "15b6bf5d-3ca7-418b-84c6-24f364810879",
+        "name": "Banana Candy",
+        "color": "Sweet",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Sweet",
+        "order": 2,
+        "id": "a27ca1f6-94cf-47f5-a56f-a5eb41bddd09",
+        "name": "Beeswax",
+        "color": "Sweet",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Sweet",
+        "order": 2,
+        "id": "63155e2e-312e-40b0-a6e1-946d02917be2",
+        "name": "Brown sugar",
+        "color": "Sweet",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Sweet",
+        "order": 2,
+        "id": "247e34dc-1e93-4578-9cab-892cc700557b",
+        "name": "Butterscotch",
+        "color": "Sweet",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Sweet",
+        "order": 2,
+        "id": "da05c74d-d4c6-4aaf-af1b-2b56c3ee331b",
+        "name": "Candy",
+        "color": "Sweet",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Sweet",
+        "order": 2,
+        "id": "08f84578-bf01-4719-96df-e5d351871c1d",
+        "name": "Caramel",
+        "color": "Sweet",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Sweet",
+        "order": 2,
+        "id": "c009bf61-0015-485b-94c3-3095fc27a450",
+        "name": "Cherry syrup",
+        "color": "Sweet",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Sweet",
+        "order": 2,
+        "id": "6c4b4935-464c-46d5-a64b-6b23e1e2c896",
+        "name": "Chocolate",
+        "color": "Sweet",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Sweet",
+        "order": 2,
+        "id": "e3258bb3-bf53-4af7-81e2-6dc54d3b8377",
+        "name": "Crème brûlée",
+        "color": "Sweet",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Sweet",
+        "order": 2,
+        "id": "e98ad585-99e6-4f8a-987a-ec3396f3b3e5",
+        "name": "Crème caramel",
+        "color": "Sweet",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Sweet",
+        "order": 2,
+        "id": "487740ae-dd7f-44b9-8d6b-9debf026f982",
+        "name": "Grand Marnier",
+        "color": "Sweet",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Sweet",
+        "order": 2,
+        "id": "669ce614-fff6-43b0-aa6a-9eb028699e76",
+        "name": "Grenadine",
+        "color": "Sweet",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Sweet",
+        "order": 2,
+        "id": "e0a8b522-0bfd-4ce6-849f-38e0c9b77100",
+        "name": "Honey",
+        "color": "Sweet",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Sweet",
+        "order": 2,
+        "id": "52d8e7c1-55a0-4b03-9ebf-b3fed4cbd3ba",
+        "name": "Honeycomb",
+        "color": "Sweet",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Sweet",
+        "order": 2,
+        "id": "0971a408-20b9-4656-99be-862bd00fff4e",
+        "name": "Honeydew",
+        "color": "Sweet",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Sweet",
+        "order": 2,
+        "id": "428794ad-76d2-4e04-adfb-2aca21416116",
+        "name": "Jelly",
+        "color": "Sweet",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Sweet",
+        "order": 2,
+        "id": "27b55938-0787-40ce-ac90-22fe6bd209ef",
+        "name": "Liquor",
+        "color": "Sweet",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Sweet",
+        "order": 2,
+        "id": "56f22856-88d8-41de-b4fe-337b95860fcb",
+        "name": "Maple syrup",
+        "color": "Sweet",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Sweet",
+        "order": 2,
+        "id": "2971d3f8-59b6-4dc0-be82-ec62cc29a1bb",
+        "name": "Marshmallow",
+        "color": "Sweet",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Sweet",
+        "order": 2,
+        "id": "2cc0a591-34ab-472b-bf16-4fa9ebbb0996",
+        "name": "Mead",
+        "color": "Sweet",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Sweet",
+        "order": 2,
+        "id": "e2bf7dbd-110b-41ce-b1de-cc9079d58fdc",
+        "name": "Molasses",
+        "color": "Sweet",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Sweet",
+        "order": 2,
+        "id": "1451a360-99e1-4d35-8e09-e06d19e78c9c",
+        "name": "Nectar",
+        "color": "Sweet",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Sweet",
+        "order": 2,
+        "id": "d74b3018-68a8-4964-ad75-8140ed7382a2",
+        "name": "Orgeat syrup",
+        "color": "Sweet",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Sweet",
+        "order": 2,
+        "id": "3135b045-b5bb-4b5b-b2aa-d65fd5165c66",
+        "name": "Pollen",
+        "color": "Sweet",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Sweet",
+        "order": 2,
+        "id": "a1d8319e-0df3-4208-926c-7af69129fbaf",
+        "name": "Powdered sugar",
+        "color": "Sweet",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Sweet",
+        "order": 2,
+        "id": "10208858-931f-4e58-9492-c37ef2b27107",
+        "name": "Rum",
+        "color": "Sweet",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Sweet",
+        "order": 2,
+        "id": "f0aea077-9c53-493b-b99e-b927d7ec7ff1",
+        "name": "Simple Syrup",
+        "color": "Sweet",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Sweet",
+        "order": 2,
+        "id": "5ca810ac-1102-4600-88bc-73d168eee032",
+        "name": "Sugar",
+        "color": "Sweet",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Sweet",
+        "order": 2,
+        "id": "654263b5-3338-4bdc-9901-866dfd379a27",
+        "name": "Syrup",
+        "color": "Sweet",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Sweet",
+        "order": 2,
+        "id": "c3bd6339-4cf2-45a1-b82b-1f3732e651f3",
+        "name": "Sweet Vanilla",
+        "color": "Sweet",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Sweet",
+        "order": 2,
+        "id": "e00a1fee-5317-43b0-8c9c-10bb60a21405",
+        "name": "Toffee",
+        "color": "Sweet",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Sweet",
+        "order": 2,
+        "id": "5655f8ba-610e-4ef5-a5cd-80210c71d78a",
+        "name": "Triple sec",
+        "color": "Sweet",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Floral",
+        "order": 3,
+        "id": "f83cec96-febc-4714-970f-d8a07a03fb99",
+        "name": "Baby powder",
+        "color": "Floral",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Floral",
+        "order": 3,
+        "id": "7cbf01e2-f2a0-4261-96a8-54306d7fcf69",
+        "name": "Balm",
+        "color": "Floral",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Floral",
+        "order": 3,
+        "id": "73ed9886-9d3f-43a4-981e-68b698132e68",
+        "name": "Blossom",
+        "color": "Floral",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Floral",
+        "order": 3,
+        "id": "bb6fe6a9-f815-4ee2-9ada-96eafbd3bcef",
+        "name": "Buttercup",
+        "color": "Floral",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Floral",
+        "order": 3,
+        "id": "cb5ae82f-26cc-47c3-852f-2eebc13a30de",
+        "name": "Carnation",
+        "color": "Floral",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Floral",
+        "order": 3,
+        "id": "caf9a9e8-5004-485f-bea6-5770b3195ca0",
+        "name": "Cherry blossom",
+        "color": "Floral",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Floral",
+        "order": 3,
+        "id": "e313d733-0542-491a-89b1-dd89d4815163",
+        "name": "Daffodil",
+        "color": "Floral",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Floral",
+        "order": 3,
+        "id": "7a239898-a0c3-4ba6-b908-7e1d52c9d780",
+        "name": "Daisy",
+        "color": "Floral",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Floral",
+        "order": 3,
+        "id": "2c59b8af-1e40-4d73-aba9-e1207b0a2921",
+        "name": "Dandelion",
+        "color": "Floral",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Floral",
+        "order": 3,
+        "id": "370ac3b7-5361-4096-916a-d81eb194de55",
+        "name": "Fabric softener",
+        "color": "Floral",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Floral",
+        "order": 3,
+        "id": "85595329-effa-416e-8c26-125dd01d6610",
+        "name": "Florist shop",
+        "color": "Floral",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Floral",
+        "order": 3,
+        "id": "645247bb-bdc4-42cb-998c-9c7c510cb3a7",
+        "name": "Flower",
+        "color": "Floral",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Floral",
+        "order": 3,
+        "id": "fcd1602f-4069-4bf9-b389-f7e3face2a54",
+        "name": "Fragrance",
+        "color": "Floral",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Floral",
+        "order": 3,
+        "id": "e58f90d3-337a-46b6-97f5-e3eedb939116",
+        "name": "Geranium",
+        "color": "Floral",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Floral",
+        "order": 3,
+        "id": "e652b1ea-ef2b-4c1b-b8f7-23fbd04fc6de",
+        "name": "Greenhouse",
+        "color": "Floral",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Floral",
+        "order": 3,
+        "id": "bfe61923-7e11-40ca-a685-db88a71c944b",
+        "name": "Hawthorn",
+        "color": "Floral",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Floral",
+        "order": 3,
+        "id": "84c7f153-0087-469f-8da6-a443e06adc9d",
+        "name": "Heather",
+        "color": "Floral",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Floral",
+        "order": 3,
+        "id": "6920de4e-3184-4d53-afde-45fd3a1b5765",
+        "name": "Hemp",
+        "color": "Floral",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Floral",
+        "order": 3,
+        "id": "3dadc15c-aa3a-4851-8d88-49af141a8570",
+        "name": "Hibiscus",
+        "color": "Floral",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Floral",
+        "order": 3,
+        "id": "fcc9d249-2e8e-4c9a-82c6-0a80852e861d",
+        "name": "Honeysuckle",
+        "color": "Floral",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Floral",
+        "order": 3,
+        "id": "2b50eae1-2663-4748-87be-74467b2bf4f7",
+        "name": "Iris",
+        "color": "Floral",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Floral",
+        "order": 3,
+        "id": "97557ea4-c63a-43d1-885d-c278ef2d481d",
+        "name": "Jasmine",
+        "color": "Floral",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Floral",
+        "order": 3,
+        "id": "aeeff94a-7441-46f1-b6c1-6bc11b17bd57",
+        "name": "Lavender",
+        "color": "Floral",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Floral",
+        "order": 3,
+        "id": "2b1f46d1-1bb4-45b5-a22e-3a6a7b6cf647",
+        "name": "Lemon balm",
+        "color": "Floral",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Floral",
+        "order": 3,
+        "id": "0aeefb71-9a55-43bd-a4f4-fa61d77e2eda",
+        "name": "Lilac",
+        "color": "Floral",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Floral",
+        "order": 3,
+        "id": "ac62e1b6-e761-466e-816c-325257f0a11d",
+        "name": "Lily",
+        "color": "Floral",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Floral",
+        "order": 3,
+        "id": "73a1b735-1f44-4a58-8fde-898589622981",
+        "name": "Orange blossom",
+        "color": "Floral",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Floral",
+        "order": 3,
+        "id": "c96046b6-d308-4e80-a29b-8da0ea7bbf89",
+        "name": "Perfume",
+        "color": "Floral",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Floral",
+        "order": 3,
+        "id": "03a312ed-c6b3-427e-8a59-8ea62f8fc0ff",
+        "name": "Potpourri",
+        "color": "Floral",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Floral",
+        "order": 3,
+        "id": "b67d311c-330b-4df1-a973-474ffede5d3d",
+        "name": "Rose",
+        "color": "Floral",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Floral",
+        "order": 3,
+        "id": "d2421e49-02bb-4d48-970a-04b843017946",
+        "name": "Vine flower",
+        "color": "Floral",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Floral",
+        "order": 3,
+        "id": "b14ddbc9-2631-440a-a892-123ecd390b11",
+        "name": "Violet",
+        "color": "Floral",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Aquatic",
+        "order": 4,
+        "id": "7f2d13ed-35de-4387-9d2a-93ce1acff8ec",
+        "name": "Clam",
+        "color": "Aquatic",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Aquatic",
+        "order": 4,
+        "id": "573dc482-5aaa-4843-b25d-036efd920b9f",
+        "name": "Crab",
+        "color": "Aquatic",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Aquatic",
+        "order": 4,
+        "id": "be7f1355-333f-4b91-b635-8b26d53438a2",
+        "name": "Fishy",
+        "color": "Aquatic",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Aquatic",
+        "order": 4,
+        "id": "4e71338b-8ad0-4945-a403-7ca64ee732fc",
+        "name": "Lobster",
+        "color": "Aquatic",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Aquatic",
+        "order": 4,
+        "id": "e0c1eb31-f638-42a3-870e-aefd15a79e68",
+        "name": "Oyster",
+        "color": "Aquatic",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Aquatic",
+        "order": 4,
+        "id": "2552aec9-c5fd-4938-99ec-cb1d54170217",
+        "name": "Scallop",
+        "color": "Aquatic",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Aquatic",
+        "order": 4,
+        "id": "9a4f078b-6835-4c05-be95-afabee48fee2",
+        "name": "Anchovy",
+        "color": "Aquatic",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Aquatic",
+        "order": 4,
+        "id": "34722d2e-c9d9-4442-af96-0a515f3d5efe",
+        "name": "Brine",
+        "color": "Aquatic",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Aquatic",
+        "order": 4,
+        "id": "0a73917c-affd-4b36-bb19-53db6236918e",
+        "name": "Iodine",
+        "color": "Aquatic",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Aquatic",
+        "order": 4,
+        "id": "44a9f9b8-3346-422c-a5c0-292f8bd0562e",
+        "name": "Kelp",
+        "color": "Aquatic",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Aquatic",
+        "order": 4,
+        "id": "dbcfc37b-a365-4088-b48c-1443eca56c0b",
+        "name": "Nori",
+        "color": "Aquatic",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Aquatic",
+        "order": 4,
+        "id": "5abe69da-ff98-4f94-8c03-019c7783b76c",
+        "name": "Oyster sauce",
+        "color": "Aquatic",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Aquatic",
+        "order": 4,
+        "id": "8edb57ad-11de-490d-bda5-97ceeb475852",
+        "name": "Salt",
+        "color": "Aquatic",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Aquatic",
+        "order": 4,
+        "id": "5a92655e-0b8a-4787-b066-faea2bfb2c29",
+        "name": "Salt marsh",
+        "color": "Aquatic",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Aquatic",
+        "order": 4,
+        "id": "1dc722de-197c-4aa7-85fa-aac828ab070c",
+        "name": "Sea spray",
+        "color": "Aquatic",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Aquatic",
+        "order": 4,
+        "id": "25789f89-4754-457e-9ef0-1700312d0713",
+        "name": "Sea urchin",
+        "color": "Aquatic",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Aquatic",
+        "order": 4,
+        "id": "d4347e2b-b819-4580-8c04-5d84dccd386d",
+        "name": "Seaweed",
+        "color": "Aquatic",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Aquatic",
+        "order": 4,
+        "id": "9de24c27-68c1-4a56-9949-e491e24ca31f",
+        "name": "Shellfish",
+        "color": "Aquatic",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Mineral",
+        "order": 5,
+        "id": "1b18a721-bbe8-4159-8bc5-5a8eace355d1",
+        "name": "Aluminium",
+        "color": "Mineral",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Mineral",
+        "order": 5,
+        "id": "ef9ba69b-b2c4-4ca8-8f6c-615f7e32a1a7",
+        "name": "Beach",
+        "color": "Mineral",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Mineral",
+        "order": 5,
+        "id": "cbe4aa82-3494-4204-919a-786bd9aa424a",
+        "name": "Bronze",
+        "color": "Mineral",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Mineral",
+        "order": 5,
+        "id": "52862b48-921c-47be-b072-1393ffe83b0a",
+        "name": "Cast iron",
+        "color": "Mineral",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Mineral",
+        "order": 5,
+        "id": "62edd7e1-4a3e-4021-bdf7-8fda8402cb47",
+        "name": "Cement",
+        "color": "Mineral",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Mineral",
+        "order": 5,
+        "id": "a1d82631-4eb4-4ef7-a456-67c5250e7ab8",
+        "name": "Chalk",
+        "color": "Mineral",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Mineral",
+        "order": 5,
+        "id": "4991b20a-0893-4fc1-9c7b-40f7759c5d88",
+        "name": "Clay",
+        "color": "Mineral",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Mineral",
+        "order": 5,
+        "id": "5d63310c-9311-42a8-8899-42c48912cd7d",
+        "name": "Copper",
+        "color": "Mineral",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Mineral",
+        "order": 5,
+        "id": "b65c2660-d00f-4c09-b093-3260cd0e76f3",
+        "name": "Egg shell",
+        "color": "Mineral",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Mineral",
+        "order": 5,
+        "id": "f9652e17-7fbc-4f29-b86a-1edba75fcf0d",
+        "name": "Flint",
+        "color": "Mineral",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Mineral",
+        "order": 5,
+        "id": "e47fec9d-506b-4a32-807f-57916cc0e1a6",
+        "name": "Fresh laundry",
+        "color": "Mineral",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Mineral",
+        "order": 5,
+        "id": "b00857ef-9d99-4024-8bce-0471c1cecfbd",
+        "name": "Graphite",
+        "color": "Mineral",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Mineral",
+        "order": 5,
+        "id": "373f02a6-02af-4730-85d0-fcc92cc9aa55",
+        "name": "Ink",
+        "color": "Mineral",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Mineral",
+        "order": 5,
+        "id": "adf13f80-3db2-46a3-b7e1-68ddfca93e5a",
+        "name": "Iron",
+        "color": "Mineral",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Mineral",
+        "order": 5,
+        "id": "2ab10f4c-59f5-41cc-9094-6ba1719569d4",
+        "name": "Lava stone",
+        "color": "Mineral",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Mineral",
+        "order": 5,
+        "id": "dedc4ae3-5ca9-43f9-88ca-e1a57700b6a9",
+        "name": "Lead",
+        "color": "Mineral",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Mineral",
+        "order": 5,
+        "id": "90daf12d-504f-4e0e-81b7-a6971fc6e60a",
+        "name": "Lime",
+        "color": "Mineral",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Mineral",
+        "order": 5,
+        "id": "9debc19a-8027-4653-b868-f960cf8221e9",
+        "name": "Limestone",
+        "color": "Mineral",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Mineral",
+        "order": 5,
+        "id": "c3510a7b-5a28-469f-a11f-c68e36228523",
+        "name": "Magnesium",
+        "color": "Mineral",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Mineral",
+        "order": 5,
+        "id": "c1e387c5-b143-4b81-91a4-ff47be92e2fa",
+        "name": "Metallic",
+        "color": "Mineral",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Mineral",
+        "order": 5,
+        "id": "3de9786a-9194-4214-84e7-016273250588",
+        "name": "Pebble",
+        "color": "Mineral",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Mineral",
+        "order": 5,
+        "id": "1e619323-080d-4ce6-84ee-e335be6e7b63",
+        "name": "Plaster",
+        "color": "Mineral",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Mineral",
+        "order": 5,
+        "id": "81b0a72a-6e30-44c5-ad9e-8ebf5683f04a",
+        "name": "Pot Still",
+        "color": "Mineral",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Mineral",
+        "order": 5,
+        "id": "d8410b5c-35f5-4e82-8312-4d5df45505c0",
+        "name": "Rust",
+        "color": "Mineral",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Mineral",
+        "order": 5,
+        "id": "2b34d5da-eeb4-4ffc-ab9a-c2ef16300974",
+        "name": "Salt",
+        "color": "Mineral",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Mineral",
+        "order": 5,
+        "id": "ce9920cf-5068-44c4-bb7a-9b018dad9df7",
+        "name": "Sand",
+        "color": "Mineral",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Mineral",
+        "order": 5,
+        "id": "5e2635e9-4414-4f32-91c3-5b873b7f63db",
+        "name": "Shell",
+        "color": "Mineral",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Mineral",
+        "order": 5,
+        "id": "9cb91e86-6804-4590-9430-c3d6ae06d0a0",
+        "name": "Slate",
+        "color": "Mineral",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Mineral",
+        "order": 5,
+        "id": "cd0de118-4001-4d11-b683-52ad6a02c23c",
+        "name": "Steel",
+        "color": "Mineral",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Mineral",
+        "order": 5,
+        "id": "a4376ee2-3a95-4fea-932b-b88b565615fd",
+        "name": "Vitamin",
+        "color": "Mineral",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Mineral",
+        "order": 5,
+        "id": "cba4724f-9ef4-4d98-885e-b02d2f4b9e8f",
+        "name": "Wet rock",
+        "color": "Mineral",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Mineral",
+        "order": 5,
+        "id": "c41f18da-0afd-4c11-a4d9-fb50a174cbd4",
+        "name": "Zinc",
+        "color": "Mineral",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Herbs",
+        "order": 6,
+        "id": "4e334b70-661e-4e20-8426-c4f2eff38ca2",
+        "name": "Aniseed",
+        "color": "Herbs",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Herbs",
+        "order": 6,
+        "id": "7cb9f865-5ad8-412c-a659-9f45cceefacd",
+        "name": "Aromatic Plant",
+        "color": "Herbs",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Herbs",
+        "order": 6,
+        "id": "6d43a2ae-37ba-4c5f-a94c-1a82908711ed",
+        "name": "Basil",
+        "color": "Herbs",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Herbs",
+        "order": 6,
+        "id": "c87d8df7-b13d-4eaa-a5cc-d4353360cce7",
+        "name": "Black tea",
+        "color": "Herbs",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Herbs",
+        "order": 6,
+        "id": "a561cdb1-da83-4b41-89f1-15952c6e50a7",
+        "name": "Caraway",
+        "color": "Herbs",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Herbs",
+        "order": 6,
+        "id": "dab7484d-04cd-47c0-80a0-b6f1da734479",
+        "name": "Coriander",
+        "color": "Herbs",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Herbs",
+        "order": 6,
+        "id": "3761b0c7-4e34-482a-99e0-47084d74edcf",
+        "name": "Cumin",
+        "color": "Herbs",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Herbs",
+        "order": 6,
+        "id": "12cbf79c-0c30-49c8-b6fe-857a4836e8b7",
+        "name": "Dill",
+        "color": "Herbs",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Herbs",
+        "order": 6,
+        "id": "221c5dcf-6ab9-4c35-838c-af1b72a360c2",
+        "name": "Fennel",
+        "color": "Herbs",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Herbs",
+        "order": 6,
+        "id": "ebd1dabf-9f7f-4ee5-8684-309ff6adcf05",
+        "name": "Green tea",
+        "color": "Herbs",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Herbs",
+        "order": 6,
+        "id": "1e2413c7-6c9f-4c9b-a9bd-9447b1284016",
+        "name": "Juniper berry",
+        "color": "Herbs",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Herbs",
+        "order": 6,
+        "id": "41ac75d5-8162-4e28-8281-289fa35e3041",
+        "name": "Marjoram",
+        "color": "Herbs",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Herbs",
+        "order": 6,
+        "id": "fa423c02-72a3-4c53-b2be-310b8fdfae2e",
+        "name": "Menthol",
+        "color": "Herbs",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Herbs",
+        "order": 6,
+        "id": "efda6b37-d57f-43cd-858f-9ade3aa7720c",
+        "name": "Mint",
+        "color": "Herbs",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Herbs",
+        "order": 6,
+        "id": "0ac36c59-9130-4998-a113-301bf56ad272",
+        "name": "Mustard",
+        "color": "Herbs",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Herbs",
+        "order": 6,
+        "id": "8d1df7dc-47db-40a9-a065-fdf7b83aba13",
+        "name": "Oregano",
+        "color": "Herbs",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Herbs",
+        "order": 6,
+        "id": "83f9eccd-dac8-43cc-abec-649896e78069",
+        "name": "Parsley",
+        "color": "Herbs",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Herbs",
+        "order": 6,
+        "id": "17283a90-62d9-44b1-953e-78361c4ee400",
+        "name": "Peppermint",
+        "color": "Herbs",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Herbs",
+        "order": 6,
+        "id": "1a768d9a-0fd5-462c-8f0f-222284f9f0c0",
+        "name": "Rosemary",
+        "color": "Herbs",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Herbs",
+        "order": 6,
+        "id": "7980025c-a098-426b-b731-6aec9b499de9",
+        "name": "Sage",
+        "color": "Herbs",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Herbs",
+        "order": 6,
+        "id": "39d6dd81-049f-4eea-a378-9f37ff45ee34",
+        "name": "Spearmint",
+        "color": "Herbs",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Herbs",
+        "order": 6,
+        "id": "a3b2f73b-98e1-4704-ba30-0ce616cef76d",
+        "name": "Star anise",
+        "color": "Herbs",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Herbs",
+        "order": 6,
+        "id": "ac5036db-8f67-482e-8632-32e1a8a31cac",
+        "name": "Tarragon",
+        "color": "Herbs",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Herbs",
+        "order": 6,
+        "id": "086d8763-6b30-4f5f-bb72-e86cfb7a96fb",
+        "name": "Tea",
+        "color": "Herbs",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Herbs",
+        "order": 6,
+        "id": "8f8b6f17-daaf-4187-8b54-2b13b8b002b2",
+        "name": "Thyme",
+        "color": "Herbs",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Herbs",
+        "order": 6,
+        "id": "cf4a2e13-02fe-48bd-98b5-4e231412e628",
+        "name": "Wintergreen",
+        "color": "Herbs",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Grassy",
+        "order": 7,
+        "id": "b1bf3711-1d19-4bfc-b42c-7faa699a3e33",
+        "name": "Aloe vera",
+        "color": "Grassy",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Grassy",
+        "order": 7,
+        "id": "601a2114-ff01-46a6-ba52-4c08d86465c8",
+        "name": "Angostura bark",
+        "color": "Grassy",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Grassy",
+        "order": 7,
+        "id": "75e427b9-380a-494c-b90b-8919560735bd",
+        "name": "Arugula",
+        "color": "Grassy",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Grassy",
+        "order": 7,
+        "id": "69b02551-b965-44d5-9cf5-dfa0fbae533f",
+        "name": "Bitter",
+        "color": "Grassy",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Grassy",
+        "order": 7,
+        "id": "d17fada1-8069-4e1b-862c-6f0c65515ae6",
+        "name": "Blue agave",
+        "color": "Grassy",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Grassy",
+        "order": 7,
+        "id": "7ae3e3bb-f6b9-470a-9d0c-739531579276",
+        "name": "Capers",
+        "color": "Grassy",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Grassy",
+        "order": 7,
+        "id": "586e0634-c294-4217-a692-db88670c6e19",
+        "name": "Celery",
+        "color": "Grassy",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Grassy",
+        "order": 7,
+        "id": "25357acb-400b-4cd6-9ccc-ef92e5865c2d",
+        "name": "Dried hops",
+        "color": "Grassy",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Grassy",
+        "order": 7,
+        "id": "63d574a2-5b63-4726-87ea-d23018c0b5cb",
+        "name": "Dry hay",
+        "color": "Grassy",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Grassy",
+        "order": 7,
+        "id": "a0a36ecf-8622-431a-bfae-36bd54ace2de",
+        "name": "Field",
+        "color": "Grassy",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Grassy",
+        "order": 7,
+        "id": "4600bdbf-dc80-45bb-b602-b4f54f485292",
+        "name": "Fresh Green",
+        "color": "Grassy",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Grassy",
+        "order": 7,
+        "id": "6170122a-8621-467c-b3eb-693d088bcd33",
+        "name": "Ginseng",
+        "color": "Grassy",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Grassy",
+        "order": 7,
+        "id": "a332512f-613d-4396-8292-3ef95b29270d",
+        "name": "Grassy",
+        "color": "Grassy",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Grassy",
+        "order": 7,
+        "id": "830bee9c-64b3-447a-aed5-86a645f49ca6",
+        "name": "Green olive",
+        "color": "Grassy",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Grassy",
+        "order": 7,
+        "id": "cac519da-05fd-45af-bfee-b1c9b0bf5f11",
+        "name": "Green salads",
+        "color": "Grassy",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Grassy",
+        "order": 7,
+        "id": "6313c356-c69a-498d-ab93-090799a8ccb4",
+        "name": "Hay",
+        "color": "Grassy",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Grassy",
+        "order": 7,
+        "id": "a2d89d17-5a94-47f7-8494-03d0970f1952",
+        "name": "Heather",
+        "color": "Grassy",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Grassy",
+        "order": 7,
+        "id": "119a7e4f-9a02-45fa-900e-a36c8aa14415",
+        "name": "Lawn",
+        "color": "Grassy",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Grassy",
+        "order": 7,
+        "id": "860f406f-8413-4ff9-a4b8-835d24a7e2ed",
+        "name": "Lettuce",
+        "color": "Grassy",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Grassy",
+        "order": 7,
+        "id": "3fc1f681-db70-42df-8d0b-5b1ebacdc01f",
+        "name": "Mown hay",
+        "color": "Grassy",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Grassy",
+        "order": 7,
+        "id": "a187e91f-4079-4d85-92ed-da66ec9f99ce",
+        "name": "Mown lawn",
+        "color": "Grassy",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Grassy",
+        "order": 7,
+        "id": "1c7427dc-ac51-4d17-8c69-a742a53ac7e9",
+        "name": "Pea Pods",
+        "color": "Grassy",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Grassy",
+        "order": 7,
+        "id": "7a9c18ae-2bdc-41be-8430-38cc2b7c5354",
+        "name": "Pumpkin",
+        "color": "Grassy",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Grassy",
+        "order": 7,
+        "id": "3800280a-a63c-4b28-9fca-a398eec3b889",
+        "name": "Rhubarb",
+        "color": "Grassy",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Grassy",
+        "order": 7,
+        "id": "68b26049-ecfb-4ab3-a2e8-2eb8a1ece5ca",
+        "name": "Stalk",
+        "color": "Grassy",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Grassy",
+        "order": 7,
+        "id": "70cf8353-5488-423a-8d73-03682eee78b3",
+        "name": "Straw",
+        "color": "Grassy",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Grassy",
+        "order": 7,
+        "id": "06b6b11a-ae59-40dc-a1a1-0ee132dc9d67",
+        "name": "Sweet Pepper",
+        "color": "Grassy",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Earthy",
+        "order": 8,
+        "id": "fb715757-27c4-4ffb-9169-67b1300d34f6",
+        "name": "Barn",
+        "color": "Earthy",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Earthy",
+        "order": 8,
+        "id": "0c375ebc-f9d0-485e-a10f-fd333ea51eb8",
+        "name": "Compost",
+        "color": "Earthy",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Earthy",
+        "order": 8,
+        "id": "1a389eb7-54aa-46eb-92cf-291e31915d41",
+        "name": "Fern",
+        "color": "Earthy",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Earthy",
+        "order": 8,
+        "id": "72ab88fc-9a9e-4cdd-b977-a79082bf5011",
+        "name": "Forest",
+        "color": "Earthy",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Earthy",
+        "order": 8,
+        "id": "b7c2b20e-a541-4f8c-b786-b66506664a2e",
+        "name": "Ivy",
+        "color": "Earthy",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Earthy",
+        "order": 8,
+        "id": "91106e32-5a44-486e-86d5-77180091d4a8",
+        "name": "Leafy",
+        "color": "Earthy",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Earthy",
+        "order": 8,
+        "id": "6c5f8324-04bb-465b-9692-7853dba7f22c",
+        "name": "Leather",
+        "color": "Earthy",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Earthy",
+        "order": 8,
+        "id": "00de430d-185b-43ac-8151-05bf75f5cd07",
+        "name": "Leaves",
+        "color": "Earthy",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Earthy",
+        "order": 8,
+        "id": "ef41457a-777f-46d4-b84e-e383b301bc14",
+        "name": "Moss",
+        "color": "Earthy",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Earthy",
+        "order": 8,
+        "id": "937843b6-a3dd-4ab5-8331-51596f24d683",
+        "name": "Mulch",
+        "color": "Earthy",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Earthy",
+        "order": 8,
+        "id": "513f6c34-082c-4152-b912-ce8c966cf56c",
+        "name": "Mushroom",
+        "color": "Earthy",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Earthy",
+        "order": 8,
+        "id": "d5f82fb3-f9f7-4077-89f5-2393ec8eaa33",
+        "name": "Musty",
+        "color": "Earthy",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Earthy",
+        "order": 8,
+        "id": "c50ce153-5b5b-4213-bf73-0cf0c1127ad1",
+        "name": "Soil",
+        "color": "Earthy",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Earthy",
+        "order": 8,
+        "id": "46813802-b753-4a7b-a3c2-6c6663764654",
+        "name": "Tobacco",
+        "color": "Earthy",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Earthy",
+        "order": 8,
+        "id": "5745355f-9184-4e76-9871-ee2e98b33715",
+        "name": "Tobacco fresh",
+        "color": "Earthy",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Earthy",
+        "order": 8,
+        "id": "7c8a04c1-4835-4148-bf0a-694c04e82a35",
+        "name": "Tobacco pipe",
+        "color": "Earthy",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Earthy",
+        "order": 8,
+        "id": "bcfb24d8-2149-4cbc-976b-a0ec64222564",
+        "name": "Truffle",
+        "color": "Earthy",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Oily",
+        "order": 9,
+        "id": "80154e7c-ab99-425a-8c6d-eadffc9be787",
+        "name": "Almond oil",
+        "color": "Oily",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Oily",
+        "order": 9,
+        "id": "81b80fc7-6451-4c31-ad4d-a1389b7bffdf",
+        "name": "Boiled pork",
+        "color": "Oily",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Oily",
+        "order": 9,
+        "id": "999bfe9f-09eb-48c3-a9f4-a20e1f5e1c78",
+        "name": "Butter",
+        "color": "Oily",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Oily",
+        "order": 9,
+        "id": "341bc173-af90-4bf6-9083-8cc71f5908ea",
+        "name": "Butter cookie",
+        "color": "Oily",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Oily",
+        "order": 9,
+        "id": "1b00f89a-1ce4-4494-bbf9-8d12635cdf89",
+        "name": "Candlewax",
+        "color": "Oily",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Oily",
+        "order": 9,
+        "id": "672a45cb-79b9-4257-9dd8-cdae98552e42",
+        "name": "Cheesy",
+        "color": "Oily",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Oily",
+        "order": 9,
+        "id": "e05ff7aa-35fa-472a-8123-3f855fa9c56a",
+        "name": "Coconut milk",
+        "color": "Oily",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Oily",
+        "order": 9,
+        "id": "8f7d8460-f976-4a11-be27-db39dbd0f22d",
+        "name": "Corn oil",
+        "color": "Oily",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Oily",
+        "order": 9,
+        "id": "4d96c7bd-4313-4b06-ba1c-1f3e819ff9ac",
+        "name": "Cowhide",
+        "color": "Oily",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Oily",
+        "order": 9,
+        "id": "40b69b02-62d8-4387-a725-0bab4fe3adf0",
+        "name": "Cream",
+        "color": "Oily",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Oily",
+        "order": 9,
+        "id": "e8b4b344-f3a0-4c39-a6cc-ea5686f0df10",
+        "name": "Crème fraîche",
+        "color": "Oily",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Oily",
+        "order": 9,
+        "id": "501da04a-2b70-4028-86d6-73813659e463",
+        "name": "Curdled milk",
+        "color": "Oily",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Oily",
+        "order": 9,
+        "id": "37c5edcb-5c34-450c-ba00-a050f587f2b6",
+        "name": "Danish pastry",
+        "color": "Oily",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Oily",
+        "order": 9,
+        "id": "48edc618-d9b5-4f28-9df3-bf7297b9a617",
+        "name": "Eggnog",
+        "color": "Oily",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Oily",
+        "order": 9,
+        "id": "ad35e7a8-c1a0-411a-a25c-c3f63685e57c",
+        "name": "Eucalyptus oil",
+        "color": "Oily",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Oily",
+        "order": 9,
+        "id": "8d91a939-ca97-44d6-bec5-d5f0924bd0e4",
+        "name": "Flaxseed",
+        "color": "Oily",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Oily",
+        "order": 9,
+        "id": "89eb504c-f786-4f1f-bc50-783914b5ee51",
+        "name": "Gamey",
+        "color": "Oily",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Oily",
+        "order": 9,
+        "id": "b433c714-3a77-4fd0-9970-9c5ae8e2b2a0",
+        "name": "Heavy cream",
+        "color": "Oily",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Oily",
+        "order": 9,
+        "id": "2d3e4b61-12cc-440b-b356-7ead6964f330",
+        "name": "Hemp oil",
+        "color": "Oily",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Oily",
+        "order": 9,
+        "id": "b6a4b878-063f-45f4-ab95-3a74fab5bc06",
+        "name": "Leather",
+        "color": "Oily",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Oily",
+        "order": 9,
+        "id": "62549376-9d35-4f8c-ada0-7fc575a973e7",
+        "name": "Milk",
+        "color": "Oily",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Oily",
+        "order": 9,
+        "id": "40ddd8ae-0d05-4ca1-8897-c93328dff58e",
+        "name": "Milky",
+        "color": "Oily",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Oily",
+        "order": 9,
+        "id": "6f1908fd-5045-407a-a6d5-4e21f07f85c5",
+        "name": "Musk",
+        "color": "Oily",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Oily",
+        "order": 9,
+        "id": "8025a010-87fb-4e6f-b2e8-0d702b34940b",
+        "name": "Oily",
+        "color": "Oily",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Oily",
+        "order": 9,
+        "id": "27a73fc4-1ab9-4d6f-9578-ca91438b4b88",
+        "name": "Olive oil",
+        "color": "Oily",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Oily",
+        "order": 9,
+        "id": "8da39155-1abe-4420-8e7a-9ffb13785d67",
+        "name": "Parmesan",
+        "color": "Oily",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Oily",
+        "order": 9,
+        "id": "9ce3baed-09b0-4b9a-9b23-ed2c1ff163d4",
+        "name": "Pumpkin seed oil",
+        "color": "Oily",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Oily",
+        "order": 9,
+        "id": "4aa77482-5dc2-48a8-9ca8-1eec55712bf1",
+        "name": "Salted butter",
+        "color": "Oily",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Oily",
+        "order": 9,
+        "id": "a152ab17-74b4-4d4c-8d16-11112269b9e6",
+        "name": "Sesame oil",
+        "color": "Oily",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Oily",
+        "order": 9,
+        "id": "f18d0314-38d6-49ec-b897-bcbad2a70523",
+        "name": "Shortbread",
+        "color": "Oily",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Oily",
+        "order": 9,
+        "id": "ff45cfad-b6e9-439d-90fc-a362e34308ca",
+        "name": "Sour cream",
+        "color": "Oily",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Oily",
+        "order": 9,
+        "id": "e8764954-e435-47ed-8231-fe062417b578",
+        "name": "Sunflower oil",
+        "color": "Oily",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Oily",
+        "order": 9,
+        "id": "a748a5d5-ff4a-467b-bff3-d5a6887a0cc5",
+        "name": "Vanilla cream",
+        "color": "Oily",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Oily",
+        "order": 9,
+        "id": "ea070825-19a7-41ff-95df-a2dedbcd7888",
+        "name": "Walnut oil",
+        "color": "Oily",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Oily",
+        "order": 9,
+        "id": "e9cd5922-7430-463f-81b6-8cfc4e9259bf",
+        "name": "Yogurt",
+        "color": "Oily",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Grainy",
+        "order": 10,
+        "id": "533cea12-52f8-4ad7-80d5-3f98c09d13f9",
+        "name": "Ale",
+        "color": "Cereal",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Grainy",
+        "order": 10,
+        "id": "29e1baf4-6485-4e08-a35c-e5327bf6076c",
+        "name": "Amber beer",
+        "color": "Cereal",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Grainy",
+        "order": 10,
+        "id": "fcc3c373-ca1c-4b5c-99d9-ef5635309354",
+        "name": "Barley",
+        "color": "Cereal",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Grainy",
+        "order": 10,
+        "id": "a0f6c816-6d5a-4b70-a00d-75e4d7df4d49",
+        "name": "Barley sugar",
+        "color": "Cereal",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Grainy",
+        "order": 10,
+        "id": "7f02da37-823e-4c87-9450-9185432972d1",
+        "name": "Batter",
+        "color": "Cereal",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Grainy",
+        "order": 10,
+        "id": "0fb85bd0-64f8-42e9-9e68-043155e944e2",
+        "name": "Beer",
+        "color": "Cereal",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Grainy",
+        "order": 10,
+        "id": "ecebae27-2102-4aca-b9a9-1622780e1641",
+        "name": "Biscuit malt",
+        "color": "Cereal",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Grainy",
+        "order": 10,
+        "id": "77af2699-5b7a-4e0f-98c0-526ead372e5b",
+        "name": "Biscuits",
+        "color": "Cereal",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Grainy",
+        "order": 10,
+        "id": "020ae49e-027d-47ce-bda8-65719daa83d4",
+        "name": "Bran",
+        "color": "Cereal",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Grainy",
+        "order": 10,
+        "id": "ea6fd91e-e82e-45ba-9522-d3a7cf278ee3",
+        "name": "Bread",
+        "color": "Cereal",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Grainy",
+        "order": 10,
+        "id": "18c9ec52-cb74-449e-aa99-cf21f4c649a3",
+        "name": "Bread crust",
+        "color": "Cereal",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Grainy",
+        "order": 10,
+        "id": "a6db5639-72dc-4bbf-8b1f-2ce90fe12cc6",
+        "name": "Breadcrumb",
+        "color": "Cereal",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Grainy",
+        "order": 10,
+        "id": "07934fee-0a0a-4b97-a31f-094c824be57c",
+        "name": "Brew",
+        "color": "Cereal",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Grainy",
+        "order": 10,
+        "id": "f05125f6-5560-4c31-b872-71e60e36a5b3",
+        "name": "Brioche",
+        "color": "Cereal",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Grainy",
+        "order": 10,
+        "id": "7a005fed-c90d-4165-8b6e-976103c299f4",
+        "name": "Buckwheat",
+        "color": "Cereal",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Grainy",
+        "order": 10,
+        "id": "36a39ef1-6f3a-4262-addd-66bab54d79e2",
+        "name": "Cake",
+        "color": "Cereal",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Grainy",
+        "order": 10,
+        "id": "a270cb0f-864c-46f6-b2f5-0500719fbb89",
+        "name": "Caramel malt",
+        "color": "Cereal",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Grainy",
+        "order": 10,
+        "id": "439e05b6-ac48-4c62-9305-66ba74aa7703",
+        "name": "Cereal",
+        "color": "Cereal",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Grainy",
+        "order": 10,
+        "id": "b71e17b6-84c8-4c9c-81bb-033e80944fb0",
+        "name": "Cereal bar",
+        "color": "Cereal",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Grainy",
+        "order": 10,
+        "id": "89d3cfff-6008-4c8d-b2ef-1ce581e39bfd",
+        "name": "Chocolate malt",
+        "color": "Cereal",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Grainy",
+        "order": 10,
+        "id": "2f374ebd-5e2a-4f89-9a75-385d32ae914f",
+        "name": "Cooked potato",
+        "color": "Cereal",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Grainy",
+        "order": 10,
+        "id": "446e494a-5b83-4684-8921-6041152a6b48",
+        "name": "Corn",
+        "color": "Cereal",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Grainy",
+        "order": 10,
+        "id": "413bf54f-cee1-4eb9-81f2-038edf078db8",
+        "name": "Crepe batter",
+        "color": "Cereal",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Grainy",
+        "order": 10,
+        "id": "173ae4f9-d879-425a-aee7-3a17433233a8",
+        "name": "Crystal malt",
+        "color": "Cereal",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Grainy",
+        "order": 10,
+        "id": "1e7b9c97-3e7c-44a7-9370-2d3efa8e6edb",
+        "name": "Dark malt",
+        "color": "Cereal",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Grainy",
+        "order": 10,
+        "id": "7c12bb41-6daf-4cb8-8147-a86162ecf36e",
+        "name": "Grainy",
+        "color": "Cereal",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Grainy",
+        "order": 10,
+        "id": "fbbf6fa5-2150-4774-ae76-0ea0bea2757d",
+        "name": "Green malt",
+        "color": "Cereal",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Grainy",
+        "order": 10,
+        "id": "fc9eb818-d522-4941-81f0-5fdc9e8ab187",
+        "name": "Honey malt",
+        "color": "Cereal",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Grainy",
+        "order": 10,
+        "id": "2658b38b-df3b-44ec-97eb-aac58b85356b",
+        "name": "Hops",
+        "color": "Cereal",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Grainy",
+        "order": 10,
+        "id": "5a417ced-c169-4602-a73c-6be0d050f388",
+        "name": "Lager beer",
+        "color": "Cereal",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Grainy",
+        "order": 10,
+        "id": "74bfa661-139a-47de-8530-4bdbb4045ed2",
+        "name": "Lambic beer",
+        "color": "Cereal",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Grainy",
+        "order": 10,
+        "id": "72667d21-c3f4-464f-bf34-7c95eba8fc5a",
+        "name": "Malt",
+        "color": "Cereal",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Grainy",
+        "order": 10,
+        "id": "b51c3751-e60d-4381-9bbd-d7efb096e5e8",
+        "name": "Malted barley",
+        "color": "Cereal",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Grainy",
+        "order": 10,
+        "id": "1ad3f398-9d9f-487c-8f06-62e9b5870b53",
+        "name": "Malted milk",
+        "color": "Cereal",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Grainy",
+        "order": 10,
+        "id": "1b148f9e-546e-4968-9982-d0f2ab7df455",
+        "name": "Malted rye",
+        "color": "Cereal",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Grainy",
+        "order": 10,
+        "id": "8ec55d77-8920-4b22-b468-647daefe2eab",
+        "name": "Mash",
+        "color": "Cereal",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Grainy",
+        "order": 10,
+        "id": "7a843728-355b-4301-920b-eb9f61b4ca29",
+        "name": "Mashed potato",
+        "color": "Cereal",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Grainy",
+        "order": 10,
+        "id": "d962fd95-e095-4b27-9d17-dd92003ae6b5",
+        "name": "Noodles",
+        "color": "Cereal",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Grainy",
+        "order": 10,
+        "id": "ab0c1925-7e8d-48f3-bbde-cce26da8741b",
+        "name": "Oat bran",
+        "color": "Cereal",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Grainy",
+        "order": 10,
+        "id": "0614ed83-0d04-429f-bf5c-a56b3beda859",
+        "name": "Oatmeal",
+        "color": "Cereal",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Grainy",
+        "order": 10,
+        "id": "7cdcfc76-5ef9-4e37-bc53-a3527fbb87f5",
+        "name": "Oats",
+        "color": "Cereal",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Grainy",
+        "order": 10,
+        "id": "3af4b37a-ab1c-4afc-8b44-2bc3d2373821",
+        "name": "Pancake",
+        "color": "Cereal",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Grainy",
+        "order": 10,
+        "id": "07607a91-3ef1-4ab5-922e-c0c099c2e674",
+        "name": "Pilsner beer",
+        "color": "Cereal",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Grainy",
+        "order": 10,
+        "id": "7e7fda1b-0a3c-43f0-b2c9-755aac69847b",
+        "name": "Porridge",
+        "color": "Cereal",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Grainy",
+        "order": 10,
+        "id": "fe8f9d0a-c752-487a-bdb6-65593f15dcb8",
+        "name": "Porter beer",
+        "color": "Cereal",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Grainy",
+        "order": 10,
+        "id": "2bb9bffd-45d1-4b4c-a45d-bf41edbc2f61",
+        "name": "Quinoa",
+        "color": "Cereal",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Grainy",
+        "order": 10,
+        "id": "e619f356-2595-4525-b476-c479293c7665",
+        "name": "Rice",
+        "color": "Cereal",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Grainy",
+        "order": 10,
+        "id": "3ace2ebc-9a40-402a-92c1-91d799f80ae9",
+        "name": "Rice hulls",
+        "color": "Cereal",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Grainy",
+        "order": 10,
+        "id": "1f2be223-df69-4d15-a4a9-0b30bbcb1aa4",
+        "name": "Rye",
+        "color": "Cereal",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Grainy",
+        "order": 10,
+        "id": "c8505e33-4499-4c05-9743-ab9b74954415",
+        "name": "Spelt",
+        "color": "Cereal",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Grainy",
+        "order": 10,
+        "id": "e718eaff-2a0a-494d-9b9f-c7beebae851b",
+        "name": "Sticky rice",
+        "color": "Cereal",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Grainy",
+        "order": 10,
+        "id": "f2592ca2-9196-4f2d-9dd7-0180a32a52b4",
+        "name": "Stout beer",
+        "color": "Cereal",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Grainy",
+        "order": 10,
+        "id": "7557bff6-dc6b-46d6-8f1b-405256ec061d",
+        "name": "Wheat",
+        "color": "Cereal",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Grainy",
+        "order": 10,
+        "id": "0d163e5b-7bf8-4cf6-9672-79573ba3e840",
+        "name": "Wheat beer",
+        "color": "Cereal",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Grainy",
+        "order": 10,
+        "id": "60d15bda-72b0-4386-80db-0b8e28db4ee9",
+        "name": "Wheat bran",
+        "color": "Cereal",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Grainy",
+        "order": 10,
+        "id": "1d65a59d-23b2-4b78-890b-e1150bfcf511",
+        "name": "Yeast",
+        "color": "Cereal",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Nutty",
+        "order": 11,
+        "id": "4048d08e-ded5-48d6-9b04-5ac2607ee201",
+        "name": "Almond",
+        "color": "Nutty",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Nutty",
+        "order": 11,
+        "id": "d2042fb8-a651-4291-84f7-30c45d863fd7",
+        "name": "Brazil nut",
+        "color": "Nutty",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Nutty",
+        "order": 11,
+        "id": "f2b8f1ae-97a7-4751-a00d-86ecdc2aa2d1",
+        "name": "Cashew",
+        "color": "Nutty",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Nutty",
+        "order": 11,
+        "id": "bb3d8c27-7f94-4a15-9a4e-8ae1ad08c6ee",
+        "name": "Chesnut",
+        "color": "Nutty",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Nutty",
+        "order": 11,
+        "id": "7ba03bf0-d1cb-4fa9-8423-2208204b93a6",
+        "name": "Coconut",
+        "color": "Nutty",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Nutty",
+        "order": 11,
+        "id": "b1aee9f4-1e95-46cb-87e6-5126166677ba",
+        "name": "Hazelnut",
+        "color": "Nutty",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Nutty",
+        "order": 11,
+        "id": "5cfe3b22-843d-4101-be13-f2c40e189832",
+        "name": "Kernel",
+        "color": "Nutty",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Nutty",
+        "order": 11,
+        "id": "039384f8-4487-4d59-881f-d5a53c25da72",
+        "name": "Macadamia",
+        "color": "Nutty",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Nutty",
+        "order": 11,
+        "id": "83eecc53-3ab5-4b99-ad74-382374ebf2ec",
+        "name": "Macaroon",
+        "color": "Nutty",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Nutty",
+        "order": 11,
+        "id": "af4011a4-ea3c-4365-a4d6-e4c59feb6363",
+        "name": "Nuts",
+        "color": "Nutty",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Nutty",
+        "order": 11,
+        "id": "2ce9f1b9-3eee-4adf-b8b3-87f35d3bbc72",
+        "name": "Nutty",
+        "color": "Nutty",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Nutty",
+        "order": 11,
+        "id": "3342adea-02f5-4946-8545-83e2f2310a87",
+        "name": "Peanut",
+        "color": "Nutty",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Nutty",
+        "order": 11,
+        "id": "b180b850-f7ac-4b4d-a01e-59ca51a866aa",
+        "name": "Pecan nut",
+        "color": "Nutty",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Nutty",
+        "order": 11,
+        "id": "f2d9f3cf-2d5d-4435-87da-93a29202f804",
+        "name": "Pine nut",
+        "color": "Nutty",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Nutty",
+        "order": 11,
+        "id": "0f211b5b-038c-4abe-ad26-dba9408bb6c0",
+        "name": "Pistachio",
+        "color": "Nutty",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Nutty",
+        "order": 11,
+        "id": "67c71ea3-e3bf-4cea-93a9-ab4cbe1a4dfe",
+        "name": "Walnut",
+        "color": "Nutty",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Woody",
+        "order": 12,
+        "id": "6d8074b0-9d8e-4378-b180-9605b8049cd9",
+        "name": "Antique Store",
+        "color": "Woody",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Woody",
+        "order": 12,
+        "id": "55d7262f-8e78-460e-8050-056b1b5fdcce",
+        "name": "Cardboard",
+        "color": "Woody",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Woody",
+        "order": 12,
+        "id": "f624db50-6be0-4f7d-a80d-0ffb4854b296",
+        "name": "Cedar",
+        "color": "Woody",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Woody",
+        "order": 12,
+        "id": "2ebb0dcf-7fa8-4468-ac43-6f5b56da2bd5",
+        "name": "Cigar box",
+        "color": "Woody",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Woody",
+        "order": 12,
+        "id": "d0fa2024-bbcc-43eb-a0b4-12594e654f29",
+        "name": "Conifer",
+        "color": "Woody",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Woody",
+        "order": 12,
+        "id": "13cd94de-7276-44fb-8409-61fdebf265d9",
+        "name": "Cork",
+        "color": "Woody",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Woody",
+        "order": 12,
+        "id": "b7ddb5ce-a9d4-4117-82f3-7d84f9709a70",
+        "name": "Cypress",
+        "color": "Woody",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Woody",
+        "order": 12,
+        "id": "58168e69-364f-4da3-9b5f-6646959fe337",
+        "name": "Fir",
+        "color": "Woody",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Woody",
+        "order": 12,
+        "id": "34ab982a-765f-46da-bdb5-580bf4a28c1b",
+        "name": "French oak",
+        "color": "Woody",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Woody",
+        "order": 12,
+        "id": "5b812033-df9f-4b33-a444-0352462819a3",
+        "name": "Green wood",
+        "color": "Woody",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Woody",
+        "order": 12,
+        "id": "64a3ef34-48e8-49c1-a0c8-35ccfb87cd6d",
+        "name": "Incense",
+        "color": "Woody",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Woody",
+        "order": 12,
+        "id": "4de1ac85-cb79-4e27-bcd1-b179c652bd25",
+        "name": "Library",
+        "color": "Woody",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Woody",
+        "order": 12,
+        "id": "c154b836-61d6-4b85-98f4-02156fa559e0",
+        "name": "Mahogany",
+        "color": "Woody",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Woody",
+        "order": 12,
+        "id": "85897281-8d8b-4759-833f-a24878af506f",
+        "name": "New wood",
+        "color": "Woody",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Woody",
+        "order": 12,
+        "id": "3ecc086f-6061-4f6c-8352-0c5b87b1e05d",
+        "name": "Oak",
+        "color": "Woody",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Woody",
+        "order": 12,
+        "id": "07fc5b15-b4cc-4b25-8da0-3ff862ed440f",
+        "name": "Old wood",
+        "color": "Woody",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Woody",
+        "order": 12,
+        "id": "ee94ce73-0572-42d6-91f7-17af03d12547",
+        "name": "Panelling",
+        "color": "Woody",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Woody",
+        "order": 12,
+        "id": "07849c16-19e3-4430-a008-5cb185143974",
+        "name": "Paper",
+        "color": "Woody",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Woody",
+        "order": 12,
+        "id": "91dd6926-9d6d-4885-880f-1cd936cdd96e",
+        "name": "Pine",
+        "color": "Woody",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Woody",
+        "order": 12,
+        "id": "da349d61-f8c1-4c55-8847-4e0c7a799a86",
+        "name": "Pine Resin",
+        "color": "Woody",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Woody",
+        "order": 12,
+        "id": "40a0a233-27f2-49a5-ad29-2896453372af",
+        "name": "Plywood",
+        "color": "Woody",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Woody",
+        "order": 12,
+        "id": "d676f2b3-0b82-4d00-b856-0812b6997cd7",
+        "name": "Root beer",
+        "color": "Woody",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Woody",
+        "order": 12,
+        "id": "a45f3d27-440a-4aa8-a6d0-79a78064062b",
+        "name": "Rosewood",
+        "color": "Woody",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Woody",
+        "order": 12,
+        "id": "76f09298-f962-4cdd-9144-34c98feaa03e",
+        "name": "Sailing deck",
+        "color": "Woody",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Woody",
+        "order": 12,
+        "id": "f0327b12-8840-4c68-801d-84d9d9689bcd",
+        "name": "Sandalwood",
+        "color": "Woody",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Woody",
+        "order": 12,
+        "id": "b8e1765b-9228-4eb4-ad2f-42dd8516ec15",
+        "name": "Sawdust",
+        "color": "Woody",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Woody",
+        "order": 12,
+        "id": "b4e4a898-e08c-42bc-8f9e-d344c61ec233",
+        "name": "Spruce",
+        "color": "Woody",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Woody",
+        "order": 12,
+        "id": "171c2191-f71f-4da6-9d6b-818b3d149aef",
+        "name": "Tannins",
+        "color": "Woody",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Woody",
+        "order": 12,
+        "id": "fab696bd-31a5-43db-87da-2f6a0288abeb",
+        "name": "Vanilla",
+        "color": "Woody",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Woody",
+        "order": 12,
+        "id": "d5c7cbe7-18b9-46b9-8fe4-b09426487aa0",
+        "name": "White oak",
+        "color": "Woody",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Woody",
+        "order": 12,
+        "id": "0c9ce537-8967-4c27-b53a-51632a06c01e",
+        "name": "Wood",
+        "color": "Woody",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Roasted",
+        "order": 13,
+        "id": "0d1ca9cb-aa09-4f0b-8262-8034d0511c08",
+        "name": "Bitter chocolate",
+        "color": "Roasted",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Roasted",
+        "order": 13,
+        "id": "75d6be23-72d4-4ebb-98bf-287cbea3aa4d",
+        "name": "Chocolate",
+        "color": "Roasted",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Roasted",
+        "order": 13,
+        "id": "2e9143d9-2300-464c-9a74-c6d0961a05a7",
+        "name": "Cocoa",
+        "color": "Roasted",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Roasted",
+        "order": 13,
+        "id": "bdb2b216-7d65-40bc-aa13-71cec4ea4a2f",
+        "name": "Coffee",
+        "color": "Roasted",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Roasted",
+        "order": 13,
+        "id": "e939f145-052e-4a74-8b60-7ca7116e79fe",
+        "name": "Coffee ground",
+        "color": "Roasted",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Roasted",
+        "order": 13,
+        "id": "2036b5e9-d849-45b0-bbfe-14e73464a2d9",
+        "name": "Dark chocolate",
+        "color": "Roasted",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Roasted",
+        "order": 13,
+        "id": "cbdfb9bd-7d27-4704-b885-d11a95b83879",
+        "name": "Espresso",
+        "color": "Roasted",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Roasted",
+        "order": 13,
+        "id": "b3cdba7e-441a-4581-bcb9-9da77a9e932b",
+        "name": "Fudge",
+        "color": "Roasted",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Roasted",
+        "order": 13,
+        "id": "3a2fb191-5e87-4c74-bfb5-477645a52ccc",
+        "name": "Ganache",
+        "color": "Roasted",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Roasted",
+        "order": 13,
+        "id": "85139c32-aa82-4aff-9d49-df69503458d9",
+        "name": "Gianduja",
+        "color": "Roasted",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Roasted",
+        "order": 13,
+        "id": "8e858d87-f277-4ba5-a03a-e81694c88dd4",
+        "name": "Milk chocolate",
+        "color": "Roasted",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Roasted",
+        "order": 13,
+        "id": "c1f573f1-9d98-4376-8644-9737619e0e60",
+        "name": "Mocha",
+        "color": "Roasted",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Roasted",
+        "order": 13,
+        "id": "70a4a1d6-d5d4-4c02-939d-481aa511a161",
+        "name": "Mochaccino",
+        "color": "Roasted",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Roasted",
+        "order": 13,
+        "id": "25afd898-4e00-4b65-a47f-d0601b456bb6",
+        "name": "Ristretto",
+        "color": "Roasted",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Roasted",
+        "order": 13,
+        "id": "42b3a9c4-dd8e-47da-9cd2-f76f133a65d4",
+        "name": "Roasted",
+        "color": "Roasted",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Roasted",
+        "order": 13,
+        "id": "86f1e3d7-994b-4cc7-a4b7-b7a14e8faf38",
+        "name": "Roasted almond",
+        "color": "Roasted",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Roasted",
+        "order": 13,
+        "id": "64e0bf6e-831c-428b-9777-8a8dbac08c07",
+        "name": "Roasted barley",
+        "color": "Roasted",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Roasted",
+        "order": 13,
+        "id": "a8b15892-441a-4395-a927-75e2c053bc4c",
+        "name": "Roasted cocoa bean",
+        "color": "Roasted",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Roasted",
+        "order": 13,
+        "id": "c834ae3d-9907-430a-a9cd-bf5ca0d8a9d2",
+        "name": "Roasted corn",
+        "color": "Roasted",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Roasted",
+        "order": 13,
+        "id": "6b10ffd8-4803-4079-b03d-8f6e1869c577",
+        "name": "Roasted hazelnut",
+        "color": "Roasted",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Roasted",
+        "order": 13,
+        "id": "186a22b3-f330-44cb-aaf1-c6ccf0f3457e",
+        "name": "Roasted nut",
+        "color": "Roasted",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Roasted",
+        "order": 13,
+        "id": "d4eead79-e128-4d9b-b9a7-4ca162c68f9a",
+        "name": "Roasted sesame",
+        "color": "Roasted",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Roasted",
+        "order": 13,
+        "id": "fedf7a8f-e01d-467f-bc31-7c18f2a190a4",
+        "name": "Robusta coffee",
+        "color": "Roasted",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Spices",
+        "order": 14,
+        "id": "b122029a-66dd-43ce-ba3b-6b3a784a3db1",
+        "name": "Anise",
+        "color": "Spices",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Spices",
+        "order": 14,
+        "id": "e0bb4389-89fa-412a-9882-ffbdf67a84ec",
+        "name": "Baking Spice",
+        "color": "Spices",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Spices",
+        "order": 14,
+        "id": "92f577ce-1ae5-488a-a24d-1bf5f21b07a4",
+        "name": "Black Pepper",
+        "color": "Spices",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Spices",
+        "order": 14,
+        "id": "793d52d4-bc60-49f0-b351-7e075753bbda",
+        "name": "Cardamom",
+        "color": "Spices",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Spices",
+        "order": 14,
+        "id": "1c06f030-d261-4973-8f00-58b41517477d",
+        "name": "Cayenne",
+        "color": "Spices",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Spices",
+        "order": 14,
+        "id": "ad472bd4-0233-4466-bd8d-4ad7639a960d",
+        "name": "Chilli",
+        "color": "Spices",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Spices",
+        "order": 14,
+        "id": "0900e367-20c4-47fd-905e-a563aa58a0d9",
+        "name": "Cinnamon",
+        "color": "Spices",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Spices",
+        "order": 14,
+        "id": "545039e2-b47c-4cb6-aca5-eb4fd51a439a",
+        "name": "Clove",
+        "color": "Spices",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Spices",
+        "order": 14,
+        "id": "17c21548-92de-4f97-a9bd-ceb1f1b7bcc9",
+        "name": "Coriander",
+        "color": "Spices",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Spices",
+        "order": 14,
+        "id": "1ec2b10d-fc5e-43ae-8c65-370b6fb1e2dd",
+        "name": "Ginger",
+        "color": "Spices",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Spices",
+        "order": 14,
+        "id": "2d8d46b9-6d1a-4a8c-bfaa-b49d3db55f84",
+        "name": "Licorice",
+        "color": "Spices",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Spices",
+        "order": 14,
+        "id": "28f20607-5b43-40a7-a7d3-50e248a6a422",
+        "name": "Mint",
+        "color": "Spices",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Spices",
+        "order": 14,
+        "id": "aab764f2-fe90-4c4a-97ec-b019248a3255",
+        "name": "Nutmeg",
+        "color": "Spices",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Spices",
+        "order": 14,
+        "id": "0d7262bf-6c64-4ee3-a10d-b65f890f2218",
+        "name": "Pepper",
+        "color": "Spices",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Spices",
+        "order": 14,
+        "id": "9221b001-5516-4a16-98d3-320ec1121281",
+        "name": "Saffron",
+        "color": "Spices",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Spices",
+        "order": 14,
+        "id": "63ab7309-1387-4d30-a1c5-f68b7cb11a8b",
+        "name": "Sage",
+        "color": "Spices",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Spices",
+        "order": 14,
+        "id": "56405280-bd77-4497-a84f-05e4a3188b4d",
+        "name": "White Pepper",
+        "color": "Spices",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Wine & Spirits",
+        "order": 15,
+        "id": "56471400-5f81-437f-acc3-a9ea5605ad87",
+        "name": "Armagnac",
+        "color": "Wine & Spirits",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Wine & Spirits",
+        "order": 15,
+        "id": "33d16224-7e85-429e-a3e5-c577716d7c3f",
+        "name": "Bourbon",
+        "color": "Wine & Spirits",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Wine & Spirits",
+        "order": 15,
+        "id": "bfb8b745-1fd6-4e8d-bbae-f98bd8b146e0",
+        "name": "Brandy",
+        "color": "Wine & Spirits",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Wine & Spirits",
+        "order": 15,
+        "id": "2ffaf4e5-873a-49a7-b9f2-987e5e5faf0b",
+        "name": "Cabernet Sauvignon",
+        "color": "Wine & Spirits",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Wine & Spirits",
+        "order": 15,
+        "id": "dc2e5752-b6d5-4777-b4fd-9e6c9a2025c1",
+        "name": "Calvados",
+        "color": "Wine & Spirits",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Wine & Spirits",
+        "order": 15,
+        "id": "16737fd7-af98-486d-969d-7a09299debf2",
+        "name": "Champagne",
+        "color": "Wine & Spirits",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Wine & Spirits",
+        "order": 15,
+        "id": "2dbb1e76-455a-44de-800b-7047db6bc72e",
+        "name": "Cherry wine",
+        "color": "Wine & Spirits",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Wine & Spirits",
+        "order": 15,
+        "id": "9314d310-dd75-473f-ae44-1723595ef532",
+        "name": "Cognac",
+        "color": "Wine & Spirits",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Wine & Spirits",
+        "order": 15,
+        "id": "bb051954-7e6c-4b31-9f6f-3490998e20d4",
+        "name": "Madeira",
+        "color": "Wine & Spirits",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Wine & Spirits",
+        "order": 15,
+        "id": "4262a23e-2ad5-46da-bf30-ac521e5c7df4",
+        "name": "Manzanilla",
+        "color": "Wine & Spirits",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Wine & Spirits",
+        "order": 15,
+        "id": "38212dd9-5f34-45f0-8219-989747143abb",
+        "name": "Marsala",
+        "color": "Wine & Spirits",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Wine & Spirits",
+        "order": 15,
+        "id": "17ece701-b103-483e-a232-d03ef978b668",
+        "name": "Merlot",
+        "color": "Wine & Spirits",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Wine & Spirits",
+        "order": 15,
+        "id": "73e54646-d1c4-4e27-9b1a-683a8035c529",
+        "name": "Oloroso",
+        "color": "Wine & Spirits",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Wine & Spirits",
+        "order": 15,
+        "id": "7503d446-28c5-4bb0-b626-f4beb33e7cbc",
+        "name": "Peach wine",
+        "color": "Wine & Spirits",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Wine & Spirits",
+        "order": 15,
+        "id": "7c40edd4-9c7d-4008-b0ee-edbebf2d9f5f",
+        "name": "Pinot Gris",
+        "color": "Wine & Spirits",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Wine & Spirits",
+        "order": 15,
+        "id": "f3eac739-0edf-4a4d-9b82-023a3a67e9e6",
+        "name": "Pinot Noir",
+        "color": "Wine & Spirits",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Wine & Spirits",
+        "order": 15,
+        "id": "b9bd22f9-3af6-4dc3-94bc-bf0e55dce0c5",
+        "name": "Port wine",
+        "color": "Wine & Spirits",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Wine & Spirits",
+        "order": 15,
+        "id": "d86c249a-482a-42d2-87ba-d5813b3a92d9",
+        "name": "Raspberry wine",
+        "color": "Wine & Spirits",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Wine & Spirits",
+        "order": 15,
+        "id": "244e6d26-a892-476c-b6e8-a7dee42525cc",
+        "name": "Riesling",
+        "color": "Wine & Spirits",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Wine & Spirits",
+        "order": 15,
+        "id": "3c243c9b-ad99-4647-9162-b592b068c46a",
+        "name": "Rosé",
+        "color": "Wine & Spirits",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Wine & Spirits",
+        "order": 15,
+        "id": "73fa64eb-7407-441d-b55a-c0257e359453",
+        "name": "Sauvignon blanc",
+        "color": "Wine & Spirits",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Wine & Spirits",
+        "order": 15,
+        "id": "63f46b16-4681-42f6-b524-b37e97b0d894",
+        "name": "Sherry",
+        "color": "Wine & Spirits",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Wine & Spirits",
+        "order": 15,
+        "id": "845ef2a9-605a-4d47-856e-268b952ec312",
+        "name": "Strawberry wine",
+        "color": "Wine & Spirits",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Wine & Spirits",
+        "order": 15,
+        "id": "3cee0ffa-4d8c-4524-b5f3-89240e1f57e4",
+        "name": "Tequila",
+        "color": "Wine & Spirits",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Wine & Spirits",
+        "order": 15,
+        "id": "6981d960-42b3-49a4-9b8f-1a90c6227051",
+        "name": "Vermouth",
+        "color": "Wine & Spirits",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Wine & Spirits",
+        "order": 15,
+        "id": "4f4d5d6e-4122-4cd9-9581-b85b9b054a8c",
+        "name": "White wine",
+        "color": "Wine & Spirits",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Wine & Spirits",
+        "order": 15,
+        "id": "0ffed1d8-e368-4965-9fbf-fdd631df349d",
+        "name": "Zinfandel",
+        "color": "Wine & Spirits",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Smoke & Peat",
+        "order": 16,
+        "id": "dd330bd1-7385-4dc3-b1c5-6fcff8d4e9ca",
+        "name": "Antiseptic",
+        "color": "Smoke & Peat",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Smoke & Peat",
+        "order": 16,
+        "id": "9fcd0eba-5636-4d2d-aa44-481c3bab8f80",
+        "name": "Ash",
+        "color": "Smoke & Peat",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Smoke & Peat",
+        "order": 16,
+        "id": "0604b5c0-f89c-4cf3-b67e-200004f58ece",
+        "name": "Bacon",
+        "color": "Smoke & Peat",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Smoke & Peat",
+        "order": 16,
+        "id": "a792fa88-2efb-46db-a56a-7dd0006632a3",
+        "name": "Bandage",
+        "color": "Smoke & Peat",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Smoke & Peat",
+        "order": 16,
+        "id": "d7a78470-05d0-4e02-87e3-0fcad4c0c237",
+        "name": "Beach fire",
+        "color": "Smoke & Peat",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Smoke & Peat",
+        "order": 16,
+        "id": "a1d00a6b-8f9a-48ff-b316-0a7c5f7fcc7e",
+        "name": "Bonfire",
+        "color": "Smoke & Peat",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Smoke & Peat",
+        "order": 16,
+        "id": "5a319432-2df2-44b7-939e-645f2cb53038",
+        "name": "Burnt",
+        "color": "Smoke & Peat",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Smoke & Peat",
+        "order": 16,
+        "id": "61a6b33e-f348-41ef-a655-73f7d351514c",
+        "name": "Burnt grass",
+        "color": "Smoke & Peat",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Smoke & Peat",
+        "order": 16,
+        "id": "3504febe-0683-46a9-ac15-d930b28e4fdc",
+        "name": "Burnt leaves",
+        "color": "Smoke & Peat",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Smoke & Peat",
+        "order": 16,
+        "id": "0c322cc8-dfe8-454d-9ac9-5818b67a2877",
+        "name": "Burnt rubber",
+        "color": "Smoke & Peat",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Smoke & Peat",
+        "order": 16,
+        "id": "48e5f324-a990-4646-955b-eade54e8e253",
+        "name": "Burnt stick",
+        "color": "Smoke & Peat",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Smoke & Peat",
+        "order": 16,
+        "id": "725c5c69-0dea-4a35-a9c9-61fac6ea6f52",
+        "name": "Burnt toast",
+        "color": "Smoke & Peat",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Smoke & Peat",
+        "order": 16,
+        "id": "ebef047d-b484-4489-abef-f9b109e5b47f",
+        "name": "Burnt wood",
+        "color": "Smoke & Peat",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Smoke & Peat",
+        "order": 16,
+        "id": "a65f8807-f4c5-4722-b41e-10a4d542f79c",
+        "name": "Campfire",
+        "color": "Smoke & Peat",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Smoke & Peat",
+        "order": 16,
+        "id": "721a4ff1-b0c1-49a1-8d36-55dc1d3f90fe",
+        "name": "Charcoal",
+        "color": "Smoke & Peat",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Smoke & Peat",
+        "order": 16,
+        "id": "8849bfcb-082c-40c9-84a7-c7601a85a9fa",
+        "name": "Chicken coop",
+        "color": "Smoke & Peat",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Smoke & Peat",
+        "order": 16,
+        "id": "121405e5-f7b9-486c-82f9-5e991ef43635",
+        "name": "Coal",
+        "color": "Smoke & Peat",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Smoke & Peat",
+        "order": 16,
+        "id": "34b597f0-c508-4e8c-9ef5-4cf2c63534ff",
+        "name": "Diesel oil",
+        "color": "Smoke & Peat",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Smoke & Peat",
+        "order": 16,
+        "id": "e56fd7ad-25fa-42f6-ae8c-729ce2a0fc0c",
+        "name": "Embers",
+        "color": "Smoke & Peat",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Smoke & Peat",
+        "order": 16,
+        "id": "aed84736-1350-4491-a85f-c548552d7d7c",
+        "name": "Farm yard",
+        "color": "Smoke & Peat",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Smoke & Peat",
+        "order": 16,
+        "id": "dcba7a4c-a847-46a2-9f33-2eaec6066d4c",
+        "name": "Gasoline",
+        "color": "Smoke & Peat",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Smoke & Peat",
+        "order": 16,
+        "id": "3a00cf69-196e-4966-8f04-5cc2f2f1a8ff",
+        "name": "Horse stable",
+        "color": "Smoke & Peat",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Smoke & Peat",
+        "order": 16,
+        "id": "f2a11ac2-11d0-4b71-96bf-fc00776be338",
+        "name": "Hospital",
+        "color": "Smoke & Peat",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Smoke & Peat",
+        "order": 16,
+        "id": "f2004cc6-6fdd-406e-8a5a-b219bf445cca",
+        "name": "Incense",
+        "color": "Smoke & Peat",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Smoke & Peat",
+        "order": 16,
+        "id": "a29e427e-5ddc-4182-8bc2-4a3f593591aa",
+        "name": "Kerosene",
+        "color": "Smoke & Peat",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Smoke & Peat",
+        "order": 16,
+        "id": "55628f30-0cfe-4b87-bf1d-cbf5132afecd",
+        "name": "Liquid smoke",
+        "color": "Smoke & Peat",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Smoke & Peat",
+        "order": 16,
+        "id": "1202f1f2-6762-4e9c-8342-de1f8807463d",
+        "name": "Manure",
+        "color": "Smoke & Peat",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Smoke & Peat",
+        "order": 16,
+        "id": "ace547fd-1bc5-4b74-9341-7bb8ace1028e",
+        "name": "Medicinal",
+        "color": "Smoke & Peat",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Smoke & Peat",
+        "order": 16,
+        "id": "1ed3009b-21ab-4b4e-b47c-69ef5be7e288",
+        "name": "Mesquite",
+        "color": "Smoke & Peat",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Smoke & Peat",
+        "order": 16,
+        "id": "bdcc2016-9c96-48ba-a751-bc2fa23fecff",
+        "name": "Peat",
+        "color": "Smoke & Peat",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Smoke & Peat",
+        "order": 16,
+        "id": "c9959f7c-7452-432b-9fa8-a5196dc433bf",
+        "name": "Peat moss",
+        "color": "Smoke & Peat",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Smoke & Peat",
+        "order": 16,
+        "id": "57139be9-7bcc-43c4-bbe2-1b147f820d19",
+        "name": "Peat oil",
+        "color": "Smoke & Peat",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Smoke & Peat",
+        "order": 16,
+        "id": "4249f873-f552-4dbe-9614-8db2f91ce34d",
+        "name": "Peat smoke",
+        "color": "Smoke & Peat",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Smoke & Peat",
+        "order": 16,
+        "id": "2e8973db-0789-4451-9609-04b6766a85eb",
+        "name": "Peated malt",
+        "color": "Smoke & Peat",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Smoke & Peat",
+        "order": 16,
+        "id": "24d31eb0-136c-4315-b107-6169bbe25272",
+        "name": "Peaty",
+        "color": "Smoke & Peat",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Smoke & Peat",
+        "order": 16,
+        "id": "69988adb-f9be-456f-aaa1-e442bab76300",
+        "name": "Pencil lead",
+        "color": "Smoke & Peat",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Smoke & Peat",
+        "order": 16,
+        "id": "98ad73d4-a6d1-4088-9d31-360974c053a0",
+        "name": "Petrol",
+        "color": "Smoke & Peat",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Smoke & Peat",
+        "order": 16,
+        "id": "9800ddbe-3602-4344-93df-beef6f2bbaed",
+        "name": "Rubber",
+        "color": "Smoke & Peat",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Smoke & Peat",
+        "order": 16,
+        "id": "967f6fdb-c8b3-4c82-890d-7e9926ab78f0",
+        "name": "Smoke",
+        "color": "Smoke & Peat",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Smoke & Peat",
+        "order": 16,
+        "id": "c6eb66c4-0ed4-4d61-8951-d82cf1d5fce6",
+        "name": "Smoked oysters",
+        "color": "Smoke & Peat",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Smoke & Peat",
+        "order": 16,
+        "id": "5e5b381d-e05f-4ef5-aefa-cacbcd3073b8",
+        "name": "Smoked salmon",
+        "color": "Smoke & Peat",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Smoke & Peat",
+        "order": 16,
+        "id": "60ce62ea-4016-49f0-ae20-56a2fafaf1c2",
+        "name": "Smokehouse",
+        "color": "Smoke & Peat",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Smoke & Peat",
+        "order": 16,
+        "id": "983dcb57-7118-4e03-858e-19efd882a199",
+        "name": "Soot",
+        "color": "Smoke & Peat",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Smoke & Peat",
+        "order": 16,
+        "id": "d4179a98-075b-45e6-908f-628be73887a6",
+        "name": "Tar",
+        "color": "Smoke & Peat",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Smoke & Peat",
+        "order": 16,
+        "id": "eca69d4f-3daf-46d6-8424-134990278fa2",
+        "name": "Wood smoke",
+        "color": "Smoke & Peat",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Off-flavors",
+        "order": 17,
+        "id": "04292620-6162-46e4-8548-40b810c96932",
+        "name": "Bacon",
+        "color": "Off-flavors",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Off-flavors",
+        "order": 17,
+        "id": "68f1031b-cd10-4c31-b5ba-68155e37ae88",
+        "name": "Barbecued meat",
+        "color": "Off-flavors",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Off-flavors",
+        "order": 17,
+        "id": "0cec5c12-3c4f-4e5c-b294-9f488c445b98",
+        "name": "Beef broth",
+        "color": "Off-flavors",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Off-flavors",
+        "order": 17,
+        "id": "43ae6e1d-9fcd-414c-b9fb-5ee5064669d1",
+        "name": "Black olive",
+        "color": "Off-flavors",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Off-flavors",
+        "order": 17,
+        "id": "eff98fe8-80b2-400a-9112-85a2779cb5a7",
+        "name": "Broth",
+        "color": "Off-flavors",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Off-flavors",
+        "order": 17,
+        "id": "7ef465b8-87ad-4659-a8d2-28a01d314e42",
+        "name": "Brussels sprout",
+        "color": "Off-flavors",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Off-flavors",
+        "order": 17,
+        "id": "f47eebf2-c0b9-4d98-9d1a-7bb37af5698b",
+        "name": "Cabbage",
+        "color": "Off-flavors",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Off-flavors",
+        "order": 17,
+        "id": "da0cc28d-e683-4ee9-ab30-9ea9897a3a77",
+        "name": "Carrot",
+        "color": "Off-flavors",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Off-flavors",
+        "order": 17,
+        "id": "bb4469e0-99da-469a-af60-5e9fc5826de1",
+        "name": "Chicken broth",
+        "color": "Off-flavors",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Off-flavors",
+        "order": 17,
+        "id": "84540503-27cf-4416-9019-bb1636cffb9e",
+        "name": "Garden",
+        "color": "Off-flavors",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Off-flavors",
+        "order": 17,
+        "id": "79d4872d-65e3-4a05-a41c-6cdfd49e5ba6",
+        "name": "Garlic",
+        "color": "Off-flavors",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Off-flavors",
+        "order": 17,
+        "id": "d65e4637-25e4-45e5-b64b-57193874e12a",
+        "name": "Gravy",
+        "color": "Off-flavors",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Off-flavors",
+        "order": 17,
+        "id": "4ce29cf5-3a0f-4a6d-9f21-a78d91d857f7",
+        "name": "Ham",
+        "color": "Off-flavors",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Off-flavors",
+        "order": 17,
+        "id": "af37d24f-95ae-4615-960b-a10407925c20",
+        "name": "Leek",
+        "color": "Off-flavors",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Off-flavors",
+        "order": 17,
+        "id": "04d257e1-ffac-4600-a073-188ae1e16eb5",
+        "name": "Matches",
+        "color": "Off-flavors",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Off-flavors",
+        "order": 17,
+        "id": "587c82dc-8e30-4105-a66a-98de498a65c3",
+        "name": "Meaty",
+        "color": "Off-flavors",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Off-flavors",
+        "order": 17,
+        "id": "795c73e4-0399-454c-8b03-be4f436c156e",
+        "name": "Onion",
+        "color": "Off-flavors",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Off-flavors",
+        "order": 17,
+        "id": "6e5328b8-7d47-4783-a5ae-bc5304e18c0f",
+        "name": "Plastic",
+        "color": "Off-flavors",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Off-flavors",
+        "order": 17,
+        "id": "6894079c-7733-425f-bc8f-17ca64adb3c0",
+        "name": "Radish",
+        "color": "Off-flavors",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Off-flavors",
+        "order": 17,
+        "id": "804a273d-4281-4a7c-b56e-6b4fada328b0",
+        "name": "Rubber",
+        "color": "Off-flavors",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Off-flavors",
+        "order": 17,
+        "id": "3b4fc151-6595-4dd0-a0b0-42d78b9fa879",
+        "name": "Rubbery",
+        "color": "Off-flavors",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Off-flavors",
+        "order": 17,
+        "id": "4bc461f7-1e0f-4327-8aff-a22cb3a93eae",
+        "name": "Shallot",
+        "color": "Off-flavors",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Off-flavors",
+        "order": 17,
+        "id": "0f86332b-0d35-49f2-9e48-995c7bfeec0c",
+        "name": "Sour",
+        "color": "Off-flavors",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Off-flavors",
+        "order": 17,
+        "id": "bd6481e4-d98b-4a02-b558-694b1d65ee93",
+        "name": "Sulfur",
+        "color": "Off-flavors",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Off-flavors",
+        "order": 17,
+        "id": "74f30415-f410-479f-b995-bb642c92fe67",
+        "name": "Turnip",
+        "color": "Off-flavors",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Off-flavors",
+        "order": 17,
+        "id": "6652e777-c929-413b-82cd-3912530b92a0",
+        "name": "Vegetable",
+        "color": "Off-flavors",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    },
+    {
+        "title": "Off-flavors",
+        "order": 17,
+        "id": "ccd27f0c-5cfd-4c90-b679-127421c0b7ba",
+        "name": "Vinyl",
+        "color": "Off-flavors",
+        "strength": 9,
+        "reaction": "no",
+        "isSelected": "FALSE"
+    }
+]
